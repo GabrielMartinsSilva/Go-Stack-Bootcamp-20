@@ -1,1 +1,1 @@
-Go-Stack-Bootcamp-20
+Study repository for GoStack Bootcamp
